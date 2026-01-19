@@ -1,0 +1,13 @@
+p {
+    color: blue;
+    font-size: 16px;
+}
+
+.internal {
+    font-size: 18px;
+}
+
+#heading {
+    color: darkorange;
+    text-align: center;
+}
